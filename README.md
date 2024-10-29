@@ -32,4 +32,4 @@
 
 ## 📬 Reach Me
 📫 Email: jadhavoj2023@gmail.com  
-📄 [My Resume](https://portfolio-omkarjadhav2020s-projects.vercel.app/)
+📄 [Download My Resume](./OmkarResume.pdf)
