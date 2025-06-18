@@ -120,7 +120,7 @@ const omkar = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarJadhav2020&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmkarJadhav2020" alt="GitHub Streak" />
 </div>
 
 <div align="center">
