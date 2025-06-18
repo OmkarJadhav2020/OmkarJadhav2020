@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Omkar Jadhav**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Full-Stack+Developer+%7C+AI+Engineer;Smart+India+Hackathon+2024+Champion;Building+the+Future+with+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=125&lines=Full-Stack+Developer+%7C+AI+Engineer;Smart+India+Hackathon+2024+Champion;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
